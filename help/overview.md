@@ -27,7 +27,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
     </div>
     <p>
     <em>
-      <a href="hhttps://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">March Release Notes</a>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">March Release Notes</a>
     </em> 
     <p>
   </td>

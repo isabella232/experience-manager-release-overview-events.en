@@ -18,5 +18,5 @@ user-guide-description: Get a quick overview of the latest features on Adobe Exp
   +[July](./2021/2021-7-0.md)
   +[August](./2021/2021-8-0.md)
   +[September](./2021/2021-9-0.md)
-  +[October](./2021/2021-3-10.md)
-  +[December](./2021/2021-3-12.md)
+  +[October](./2021/2021-10-0.md)
+  +[December](./2021/2021-12-0.md)
