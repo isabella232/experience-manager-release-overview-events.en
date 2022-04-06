@@ -3,13 +3,15 @@ title: Adobe Experience Manager as a Cloud Service Release Overview
 description: Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 ---
+
 # Adobe Experience Manager as a Cloud Service Release Updates
 
 ![AEM CS Release Updates](/help/assets/AEMCS-overview-banner.png)
 
 Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service. These are short, roughly 10 minutes videos delivered by the AEM product team that share highlights of the latest release.
 
-## Current Release 
+## Current Release
+
 <table>
 <tr>
   <td>
