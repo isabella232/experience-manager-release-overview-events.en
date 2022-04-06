@@ -15,11 +15,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 <table>
 <tr>
   <td>
-    <a href="./2022/2022-3-0.html">
+    <a href="./2022/2022-3-0.md">
       <img alt="March 2022 AEMCS Release" src="./2022/assets/2022-3-0.png" />
     </a>
     <div>
-      <a href="./2022/2022-3-0.html">
+      <a href="./2022/2022-3-0.md">
         <strong>March 2022 Release, 2022.3.0</strong>
         <br/>
         <em>Release Date:  March 31, 2022 </em>
@@ -42,7 +42,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <img alt="February 2022 AEMCS Release" src="./2022/assets/2022-2-0.png" />
     </a>
     <div>
-      <a href="./2022/2022-2-0.html">
+      <a href="./2022/2022-2-0.md">
         <strong>February 2022 Release</strong>
         <br/>
  <!--
@@ -57,11 +57,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
     <p>
   </td>
   <td>
-    <a href="./2022/2022-1-0.html">
+    <a href="./2022/2022-1-0.md">
       <img alt="January 2022 AEMCS Release" src="./2022/assets/2022-2-0.png" />
     </a>
     <div>
-      <a href="./2022/2022-1-0.html">
+      <a href="./2022/2022-1-0.md">
         <strong>January 2022 Release, 2022.1.0</strong>
         <br/>
         <em>Release Date:  February 3, 2022 </em>
