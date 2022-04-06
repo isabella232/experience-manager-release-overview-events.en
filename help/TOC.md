@@ -1,32 +1,22 @@
 ---
-user-guide-title: Experience Manager Release Overview Events
-user-guide-breadcrumb: AEM Release Events
-user-guide-description: Adobe Experience Manager Release Overview Events
+user-guide-title: Adobe Experience Manager as a Cloud Service Release Overview
+user-guide-breadcrumb: AEMCS Release Events
+user-guide-description: Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service
 ---
 
-# Experience Manager Release Overview {#using}
+# Adobe Experience Manager as a Cloud Service Release Updates {#aemcsupdates}
 
 + [Overview](overview.md)
----
-user-guide-title: AEM Skill Builder
-user-guide-description: Recorded webinar series to build your knowledge base and maximize your investment in Adobe Experience Manager.
----
-
-# AEM Skill Builder {#skill-builder}
-
-* [Overview](overview.md)
-* 2019 {#2019}
-  * [Testing Best Practices with Cloud Manager](./2019/cloud-manager-testing.md)
-* 2020 {#2020}
-  * [Asset Link](./2020/asset-link.md)
-  * [Brand Portal](./2020/brand-portal.md)
-  * [Dynamic Media](./2020/dynamic-media.md)
-  * [Folder Structure and Search](./2020/folder-structure-search.md)
-  * [Metadata](./2020/metadata.md)
-* 2021 {#2021}
-  * [Authoring Fundamentals](./2021/authoring-fundamentals.md)
-  * [Media Library Administration](./2021/media-library-administration.md)
-  * [Collaboration Tools](./2021/collaboration-tools.md)
-  * [Omnichannel experiences](./2021/omnichannel-experiences.md)
-  * [MSM and Translation](./2021/multi-site-management-web-translation.md)
-  * [Content Management](./2021/traditional-headless-content-management.md)
++2022{#2022}
+  +[January](./2022/2022-1-0.md)
+  +[February](./2022/2022-2-0.md)
+  +[March](./2022/2022-3-0.md)
++2021{#2021}
+  +[April](./2021/2021-4-0.md)
+  +[May](./2021/2021-5-0.md)
+  +[June](./2021/2021-6-0.md)
+  +[July](./2021/2021-7-0.md)
+  +[August](./2021/2021-8-0.md)
+  +[September](./2021/2021-9-0.md)
+  +[October](./2021/2021-3-10.md)
+  +[December](./2021/2021-3-12.md)
