@@ -39,7 +39,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 <tr>
   <td>
     <a href="./2022/2022-1-0.md">
-      <img alt="January 2022 AEMCS Release" src="./2022/assets/2022-2-0.png" />
+      <img alt="January 2022 AEMCS Release" src="./2022/assets/2022-1-0.png" />
     </a>
     <div>
       <a href="./2022/2022-1-0.md">
