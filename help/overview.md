@@ -6,7 +6,7 @@ user-guide-breadcrumb: AEM Release Events
 
 # Adobe Experience Manager as a Cloud Service Release Updates
 
-![AEM CS Release Updates](/help/assets/AEMCS-overview-banner.png)
+<!--- ![AEM CS Release Updates](/help/assets/AEMCS-overview-banner.png) --->
 
 Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service. These are short, roughly 10 minutes videos delivered by the AEM product team that share highlights of the latest release.
 
@@ -37,25 +37,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 
 <table>
 <tr>
-  <td>
-    <a href="./2022/2022-2-0.md">
-      <img alt="February 2022 AEMCS Release" src="./2022/assets/2022-2-0.png" />
-    </a>
-    <div>
-      <a href="./2022/2022-2-0.md">
-        <strong>February 2022 Release</strong>
-        <br/>
- <!--
-        <em>Release Date: Februrary 1, 2022 </em>
-      </a>
-    </div>
-    <p>
-    <em>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html">February Release Notes</a>
-    </em> 
---->
-    <p>
-  </td>
   <td>
     <a href="./2022/2022-1-0.md">
       <img alt="January 2022 AEMCS Release" src="./2022/assets/2022-2-0.png" />
